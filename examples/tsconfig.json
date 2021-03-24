@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "module": "commonjs",
+      "declaration": true,
+      "declarationMap": true,
+      "outDir": "./dist",
+      "rootDir": "./",
+      "downlevelIteration": true,
+      "noEmit": true,
+      "strict": true,
+      "noEmitOnError": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "files": ["./tests.ts"],
+    "exclude": ["node_modules"]
+  }
