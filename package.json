@@ -1,6 +1,6 @@
 {
   "name": "zenno-lab-playwright",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "solve captchas like a cake in playwright",
 
   "main": "dist/lib.js",
